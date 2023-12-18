@@ -162,7 +162,6 @@ function printCart() {
     // Fill the shopping cart modal manipulating the shopping cart dom
     let bodyTable = document.getElementById('cart_list');
     let stringRowProducteCart = '<tr>';
-    //let total_price = document.getElementById('total_price').textContent = 0;
     
 
     for(let product of cart){
