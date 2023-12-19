@@ -1,4 +1,7 @@
 // If you have time, you can move this variable "products" to a json or js file and load the data in this js. It will look more professional
+//import products from './products.json' assert{type: 'json'};
+
+
 var products = [
     {
         id: 1,
